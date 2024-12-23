@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <booklist>
+        <book >
+            <author>F. Scott Fitzgerald</author>
+            <genre>Fiction</genre>
+            <pages>218</pages>
+            <title>The Great Gatsby</title>
+            <year>1925</year>
+        </book >
+        <book >
+            <author>Harper Lee</author>
+            <genre>Fiction</genre>
+            <pages>281</pages>
+            <title>To Kill a Mockingbird</title>
+            <year>1960</year>
+        </book >
+        <book >
+            <author>George Orwell</author>
+            <genre>Dystopian</genre>
+            <pages>328</pages>
+            <title>1984</title>
+            <year>1949</year>
+        </book >
+        <book >
+            <author>Jane Austen</author>
+            <genre>Romance</genre>
+            <pages>279</pages>
+            <title>Pride and Prejudice</title>
+            <year>1813</year>
+        </book >
+        <book >
+            <author>J.D. Salinger</author>
+            <genre>Fiction</genre>
+            <pages>277</pages>
+            <title>The Catcher in the Rye</title>
+            <year>1951</year>
+        </book >
+        <book >
+            <author>J.R.R. Tolkien</author>
+            <genre>Fantasy</genre>
+            <pages>310</pages>
+            <title>The Hobbit</title>
+            <year>1937</year>
+        </book >
+        <book >
+            <author>Ray Bradbury</author>
+            <genre>Dystopian</genre>
+            <pages>158</pages>
+            <title>Fahrenheit 451</title>
+            <year>1953</year>
+        </book >
+        <book >
+            <author>J.R.R. Tolkien</author>
+            <genre>Fantasy</genre>
+            <pages>423</pages>
+            <title>The Lord of the Rings: The Fellowship of the Ring</title>
+            <year>1954</year>
+        </book >
+        <book >
+            <author>Aldous Huxley</author>
+            <genre>Dystopian</genre>
+            <pages>268</pages>
+            <title>Brave New World</title>
+            <year>1932</year>
+        </book >
+        <book >
+            <author>Anne Frank</author>
+            <genre>Biography</genre>
+            <pages>283</pages>
+            <title>The Diary of a Young Girl</title>
+            <year>1947</year>
+        </book >
+        <book >
+            <author>Paulo Coelho</author>
+            <genre>Fiction</genre>
+            <pages>208</pages>
+            <title>The Alchemist</title>
+            <year>1988</year>
+        </book >
+        <book >
+            <author>Oscar Wilde</author>
+            <genre>Philosophical Fiction</genre>
+            <pages>254</pages>
+            <title>The Picture of Dorian Gray</title>
+            <year>1890</year>
+        </book >
+        <book >
+            <author>Cormac McCarthy</author>
+            <genre>Post-Apocalyptic</genre>
+            <pages>287</pages>
+            <title>The Road</title>
+            <year>2006</year>
+        </book >
+        <book >
+            <author>Margaret Mitchell</author>
+            <genre>Historical Fiction</genre>
+            <pages>1037</pages>
+            <title>Gone with the Wind</title>
+            <year>1936</year>
+        </book >
+        <book >
+            <author>John Steinbeck</author>
+            <genre>Historical Fiction</genre>
+            <pages>464</pages>
+            <title>The Grapes of Wrath</title>
+            <year>1939</year>
+        </book >
+        <book >
+            <author>Douglas Adams</author>
+            <genre>Science Fiction</genre>
+            <pages>224</pages>
+            <title>The Hitchhiker's Guide to the Galaxy</title>
+            <year>1979</year>
+        </book >
+        <book >
+            <author>Stephen King</author>
+            <genre>Horror</genre>
+            <pages>447</pages>
+            <title>The Shining</title>
+            <year>1977</year>
+        </book >
+        <book >
+            <author>John Green</author>
+            <genre>Young Adult</genre>
+            <pages>313</pages>
+            <title>The Fault in Our Stars</title>
+            <year>2012</year>
+        </book >
+        <book >
+            <author>Margaret Atwood</author>
+            <genre>Dystopian</genre>
+            <pages>311</pages>
+            <title>The Handmaid's Tale</title>
+            <year>1985</year>
+        </book >
+        <book >
+            <author>Louisa May Alcott</author>
+            <genre>Fiction</genre>
+            <pages>759</pages>
+            <title>Little Women</title>
+            <year>1868</year>
+        </book >
+    </booklist>
+</root>
